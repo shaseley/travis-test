@@ -3,4 +3,4 @@ python:
  - "2.7"
 script: python -m unittest test
 notifications:
-  webhooks: https://test161.ops-class.org:8888/webhook
+  webhooks: https://test161.ops-class.org/notifications
