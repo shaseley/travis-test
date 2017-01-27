@@ -1,0 +1,7 @@
+= Testing Travis CI
+
+image:https://travis-ci.org/shaseley/travis-test.svg?branch=master["Build Status", link="https://travis-ci.org/shaseley/travis-test"]
+
+== About
+
+This repo is just to test integration with Travis CI.
